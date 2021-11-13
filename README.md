@@ -1,4 +1,4 @@
-[Instruções/Instructions](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-Ou5wtVfYv)
+[Instruções/Instructions](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
 [Resultado/Result](https://leonardoth.github.io/Single-Price-Grid/)
 
